@@ -91,7 +91,7 @@ loops.everyInterval(1000, function () {
 ```
 
 ## Koden er nu klar til brug!
-* Fortsæt med opgaverne i elevarket 
+* Tryk på knappen "Færdig"
 
 
 ```template
