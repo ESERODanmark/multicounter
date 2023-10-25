@@ -95,3 +95,5 @@ loops.everyInterval(1000, function () {
 input.onGesture(Gesture.Shake, function () {
 })
 ```
+
+<!-- All rights belong to ESERO Danmark, please contact ss@nvhus.dk for further information -->
