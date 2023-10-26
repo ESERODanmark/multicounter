@@ -1,7 +1,7 @@
 ## Multi-tælleren @unplugged
 ![](https://eserodanmark.github.io/skridt-taeller/intro.png)
 
-## Multi-tælleren  @unplugged
+## Multi-tælleren
 **Når du klikker på pæren eller de farvede tekster får du et tip**
 ![](https://github.com/ESERODanmark/multicounter/blob/master/klikForTip.gif)
 
