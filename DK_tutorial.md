@@ -1,5 +1,11 @@
 ## Multi-tælleren @unplugged
-![Image Description](https://newgamedk.github.io/skridt-taeller/intro.png)
+![Image Description](https://eserodanmark.github.io/skridt-taeller/intro.png)
+
+## Multi-tælleren @unplugged
+**Når du klikker på pæren eller de farvede tekster får du et tip**
+![Image Description](https://github.com/ESERODanmark/multicounter/blob/master/klikForTip.gif)
+
+
 
 ## Tælle-variablen
 Opret en variabel, til at tælle antal ryst skridt med. Kald den `||variables:antalRyst||`. 
