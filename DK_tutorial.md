@@ -1,3 +1,8 @@
+```template
+input.onGesture(Gesture.Shake, function () {
+})
+let antalRyst = 0;
+```
 
 ## Multi-tælleren @unplugged
 ![Image Description](https://newgamedk.github.io/skridt-taeller/intro.png)
@@ -97,8 +102,3 @@ loops.everyInterval(1000, function () {
 * Tryk på knappen "Færdig" og fortsæt med opgaverne i elevhæftet
 
 
-```template
-input.onGesture(Gesture.Shake, function () {
-})
-let antalRyst = 0;
-```
