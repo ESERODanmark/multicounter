@@ -11,7 +11,8 @@
         "main.ts",
         "README.md",
         "DK_tutorial.md",
-        "SE_tutorial.md"
+        "SE_tutorial.md",
+        "tutorial-info-cache.json"
     ],
     "testFiles": [
         "test.ts"
