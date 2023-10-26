@@ -1,6 +1,6 @@
 ## Multi-tælleren
 **Når du klikker på pæren eller de farvede tekster får du et tip**
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![](https://github.com/ESERODanmark/multicounter/blob/master/klikForTip.gif)
 
 ## Tælle-variablen
 Opret en variabel, til at tælle antal ryst skridt med. Kald den `||variables:antalRyst||`. 
