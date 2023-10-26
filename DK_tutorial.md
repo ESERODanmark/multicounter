@@ -5,7 +5,10 @@
 Opret en variabel, til at tælle antal ryst skridt med. Kald den `||variables:antalRyst||`. 
 **TIP:** Tryk på den farvede tekst.
 
+```blocks
 let antalRyst = 0;
+```
+
 
 ## Sæt tælle-variablen
 Når multi:tælleren rystes, skal den tælle et skridt. 
