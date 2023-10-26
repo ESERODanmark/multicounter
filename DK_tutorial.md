@@ -1,4 +1,3 @@
-let antalRyst = 0;
 
 ## Multi-tælleren @unplugged
 ![Image Description](https://newgamedk.github.io/skridt-taeller/intro.png)
@@ -52,7 +51,6 @@ input.onButtonPressed(Button.A, function () {
 * Indsæt variablen `||variables:antalRyst||` i `||basic.vis nummer||`
 
 ```blocks
-let antalRyst=0;
 input.onButtonPressed(Button.A, function () {
     antalRyst = 0
     basic.showNumber(antalRyst)
@@ -102,4 +100,5 @@ loops.everyInterval(1000, function () {
 ```template
 input.onGesture(Gesture.Shake, function () {
 })
+let antalRyst = 0;
 ```
