@@ -1,3 +1,5 @@
+let antalRyst = 0;
+
 ## Multi-tælleren @unplugged
 ![Image Description](https://newgamedk.github.io/skridt-taeller/intro.png)
 
@@ -5,9 +7,7 @@
 Opret en variabel, til at tælle antal ryst skridt med. Kald den `||variables:antalRyst||`. 
 **TIP:** Tryk på den farvede tekst.
 
-```blocks
-let antalRyst = 0;
-```
+
 
 
 ## Sæt tælle-variablen
@@ -52,6 +52,7 @@ input.onButtonPressed(Button.A, function () {
 * Indsæt variablen `||variables:antalRyst||` i `||basic.vis nummer||`
 
 ```blocks
+let antalRyst=0;
 input.onButtonPressed(Button.A, function () {
     antalRyst = 0
     basic.showNumber(antalRyst)
