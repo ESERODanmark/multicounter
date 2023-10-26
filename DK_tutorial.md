@@ -5,9 +5,6 @@
 Opret en variabel, til at tælle antal ryst skridt med. Kald den `||variables:antalRyst||`. 
 **TIP:** Tryk på den farvede tekst.
 
-
-
-
 ## Sæt tælle-variablen
 Når multi:tælleren rystes, skal den tælle et skridt. 
 * Find blokken `||variables: ændr||` og træk den ind i  `||input.på ryst||`    
@@ -42,7 +39,6 @@ input.onButtonPressed(Button.A, function () {
 input.onButtonPressed(Button.A, function () {
     antalRyst = 0
     basic.showNumber()
-
 })
 ```
 
@@ -53,7 +49,6 @@ input.onButtonPressed(Button.A, function () {
 input.onButtonPressed(Button.A, function () {
     antalRyst = 0
     basic.showNumber(antalRyst)
-
 })
 ```
 
