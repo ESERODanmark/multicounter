@@ -1,5 +1,7 @@
-## Multi-tælleren
-** Når du klikker på pæren eller de farvede tekster får du et tip **
+## Multi-tælleren @unplugged
+![]()
+
+## Multi-tælleren @unplugged
 ![](https://github.com/ESERODanmark/multicounter/blob/master/klikForTip_small.gif?raw=true)
 
 ## Tælle-variablen
