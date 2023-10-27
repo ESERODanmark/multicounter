@@ -1,7 +1,4 @@
 ## Multi-tælleren @unplugged
-![]()
-
-## Multi-tælleren @unplugged
 ![](https://github.com/ESERODanmark/multicounter/blob/master/klikForTip_small.gif?raw=true)
 
 ## Tælle-variablen
