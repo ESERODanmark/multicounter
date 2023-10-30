@@ -1,14 +1,14 @@
 ## Multi-tælleren @unplugged
-![](https://github.com/ESERODanmark/multicounter/blob/master/multicounter_01.png?raw=true)
-
-## Multi-tælleren @unplugged
-![](https://github.com/ESERODanmark/multicounter/blob/master/clickTip.gif?raw=true)
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/ESERODanmark/multicounter/blob/master/multicounter_01.png?raw=true" alt="DampVibrations" width="300"/>
+  <img src="https://github.com/ESERODanmark/multicounter/blob/master/clickTip.gif?raw=true" alt="ClickTip" width="300"/>
+</div>
 
 ## Tælle-variablen
 Opret en variabel, til at tælle antal ryst skridt med. Kald den `||variables:antalRyst||`. 
 
 ## Sæt tælle-variablen
-Når multi:tælleren rystes, skal den tælle et skridt. 
+Når multitælleren rystes, skal den tælle et skridt. 
 * Find blokken `||variables: ændr||` og træk den ind i  `||input.på ryst||`    
 
 ```blocks
@@ -17,7 +17,7 @@ input.onGesture(Gesture.Shake, function () {
 })
 ```
 
-## Nulstil multi:tælleren
+## Nulstil multitælleren
 * Find blokken `||input:når der trykkes på knap A||`. 
 
 ```blocks
@@ -25,7 +25,7 @@ input.onButtonPressed(Button.A, function () {
 })
 ```
 
-## Nulstil multi:tælleren
+## Nulstil multitælleren
 * Find blokken `||variables: sæt||` og sæt den ind i `||input:når der trykkes på knap A||`
 
 ```blocks
@@ -34,7 +34,7 @@ input.onButtonPressed(Button.A, function () {
 })
 ```
 
-## Nulstil multi:tælleren
+## Nulstil multitælleren
 * Find blokken `||basic.vis nummer||`. Sæt den ind i `||input:når der trykkes på knap A||` under `||variables: sæt||`
 
 ```blocks
@@ -44,7 +44,7 @@ input.onButtonPressed(Button.A, function () {
 })
 ```
 
-## Nulstil multi:tælleren
+## Nulstil multitælleren
 * Indsæt variablen `||variables:antalRyst||` i `||basic.vis nummer||`
 
 ```blocks
