@@ -1,6 +1,6 @@
-## Tællemaskinen @unplugged
+## Tællemaskine @unplugged
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github.com/ESERODanmark/multicounter/blob/master/multicounter_01.png?raw=true" alt="DampVibrations" width="300"/>
+  <img src="https://github.com/ESERODanmark/TemperaturDatalogger/blob/master/IkonESERO.png?raw=true" alt="DampVibrations" width="395"/>
   <img src="https://github.com/ESERODanmark/multicounter/blob/master/clickTip.gif?raw=true" alt="ClickTip" width="300"/>
 </div>
 
